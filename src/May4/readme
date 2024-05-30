@@ -1,0 +1,15 @@
+
+#
+String is a class
+Immutable==> cannot be changed, modified
+
+// Integer - wrapper class
+- primitive to object
+
+Why we need wrapper classes?
+- collections work with wrapper classes
+
+
+//generics
+- can work with any type of data and have type safety
+Class<T> ---type
